@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         editNumber1 = findViewById(R.id.editNumber1)
         editNumber2 = findViewById(R.id.editNumber2)
     }
-
+//View is used to get access with frontend
     fun buttonClick(v:View){
         var ans = 0.0
 
