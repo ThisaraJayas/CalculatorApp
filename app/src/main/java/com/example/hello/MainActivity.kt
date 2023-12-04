@@ -9,6 +9,7 @@ import com.example.hello.models.Calculator
 
 class MainActivity : AppCompatActivity() {
 
+    //lateint is initialized later bacuse in kolin (var) we have to initialize it
     lateinit var editNumber1:EditText
     lateinit var editNumber2:EditText
 
